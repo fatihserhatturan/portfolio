@@ -1,0 +1,82 @@
+{
+  "personal": {
+    "name": "Fatih Serhat Turan",
+    "title": "Fullstack Developer",
+    "description": "A passionate software developer specialized in Vue.js and .NET Core, working with microservice architectures and modern technologies.",
+    "contact": {
+      "email": "fatihserhatturan@gmail.com",
+      "phone": "+90 553 746 93 29",
+      "address": "Ayazma Mah. 17 Ağustos BLVR. 141/1 DORUKKENT CA-4 BLOK İZMİT/KOCAELİ"
+    },
+    "social": {
+      "github": "https://github.com/fatihserhatturan",
+      "linkedin": "https://www.linkedin.com/in/fatih-serhat-turan-4b3bb1146/",
+      "medium": "https://medium.com/@fatihserhatturan"
+    }
+  },
+  "about": [
+    "Hello, I'm Fatih Serhat Turan. I'm a software engineer specialized in fullstack development, creating high-performance and sustainable projects using Clean Architecture, Onion Architecture, and various design patterns.",
+    "I work with technologies such as .NET Core, Vue.js, MongoDB, MSSQL, Docker, and Kubernetes, implementing modern application architectures and microservice approaches in my projects.",
+    "I am currently working as a Software Development intern at Doğuş Technology and pursuing my education in Computer Engineering at Kocaeli University."
+  ],
+  "experience": [
+    {
+      "title": "Software Development Intern",
+      "company": "Doğuş Technology",
+      "period": "2024 - Present",
+      "responsibilities": [
+        "Developed scalable web applications as a Full Stack Developer using .NET Core and C# with Clean Architecture, Onion Architecture, and various design patterns.",
+        "Created dynamic and user-friendly interfaces with Vue.js, optimized data management using MSSQL and MongoDB.",
+        "Managed CI/CD processes with Azure DevOps, created pipelines for automatic build, test, and deployment.",
+        "Improved code quality with SonarQube analysis, ensured version control with Git and Visual Studio.",
+        "Placed 2nd in a company-wide generative AI competition with an intelligent document tool that automates document requirements in business processes."
+      ]
+    },
+    {
+      "title": "Research and Development Intern",
+      "company": "Kocaeli University Embedded Systems Laboratory",
+      "period": "2021 - 2024",
+      "responsibilities": [
+        "Developed an enterprise web application with a user-friendly interface, utilizing MSSQL and MongoDB. Implemented Clean Architecture, Onion Architecture, and various design patterns in frontend and backend to enhance performance and sustainability.",
+        "Developed a reservation system for Marmarakaf using .NET Core MVC.",
+        "Created a patient tracking system for Kocaeli University Hospital using .NET Core MVC.",
+        "Implemented a graduate information system for Kocaeli University using .NET Core.",
+        "Developed a microservice-based online image optimization tool using Go and Nodejs. Each service (upload, processing, and analytics) was containerized with Docker and communicated via gRPC. Used Redis for caching and PostgreSQL for metadata storage. Ensured scalability and fault tolerance with Kubernetes deployment."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Computer Engineering",
+      "institution": "Kocaeli University",
+      "period": "2021 - 2025",
+      "description": "I am continuing my education in Computer Engineering. Throughout my education, I am building a comprehensive academic foundation in software development, algorithm design, database management, and system architecture."
+    }
+  ],
+  "skills": {
+    "programming": ["C#", "Go", "JavaScript", "TypeScript", "T-SQL"],
+    "frameworks": [".NET Core", "ASP.NET MVC", "Vue.js", "Nodejs"],
+    "databases": ["MSSQL", "MongoDB", "PostgreSQL", "Redis"],
+    "devops": ["Docker", "Kubernetes", "Azure DevOps", "Git & GitHub"]
+  },
+  "projects": [
+    {
+      "title": "Enterprise Web Application",
+      "category": ".NET Core",
+      "description": "An enterprise web application developed using Clean Architecture, Onion Architecture, and various design patterns, supported by MSSQL and MongoDB.",
+      "technologies": ["C#", ".NET Core", "MSSQL", "MongoDB"]
+    },
+    {
+      "title": "UI-GPT: AI-Powered Interface Generator",
+      "category": "Vue.js",
+      "description": "UI-GPT is a single-page web application that harnesses the power of artificial intelligence to generate user interface code based on natural language descriptions. This tool bridges the gap between design ideas and implementation by allowing users to describe their interface needs in plain language and receive ready-to-use code in multiple frameworks.",
+      "technologies": ["Vue.js", "Nodejs","Tailwind CSS", "OpenAI","Azure OpenAI"]
+    },
+    {
+      "title": "Intelligent Document Tool",
+      "category": "AI/ML",
+      "description": "A generative AI-based intelligent document tool that automates document requirements in business processes, using OpenAI models.",
+      "technologies": ["AI/ML", "OpenAI", ".NET Core", "Vue.js"]
+    }
+  ]
+}
