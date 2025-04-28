@@ -61,7 +61,7 @@
   },
   "projects": [
     {
-      "title": "Enterprise Web Application",
+      "title": "Business Process Application",
       "category": ".NET Core",
       "description": "An enterprise web application developed using Clean Architecture, Onion Architecture, and various design patterns, supported by MSSQL and MongoDB.",
       "technologies": ["C#", ".NET Core", "MSSQL", "MongoDB"]
