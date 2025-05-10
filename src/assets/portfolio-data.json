@@ -5,8 +5,7 @@
     "description": "A passionate software developer specialized in Vue.js and .NET Core, working with microservice architectures and modern technologies.",
     "contact": {
       "email": "fatihserhatturan@gmail.com",
-      "phone": "+90 553 746 93 29",
-      "address": "Ayazma Mah. 17 Ağustos BLVR. 141/1 DORUKKENT CA-4 BLOK İZMİT/KOCAELİ"
+      "phone": "+90 553 746 93 29"
     },
     "social": {
       "github": "https://github.com/fatihserhatturan",
@@ -25,39 +24,55 @@
       "company": "Doğuş Technology",
       "period": "2024 - Present",
       "responsibilities": [
-        "Developed scalable web applications as a Full Stack Developer using .NET Core and C# with Clean Architecture, Onion Architecture, and various design patterns.",
-        "Created dynamic and user-friendly interfaces with Vue.js, optimized data management using MSSQL and MongoDB.",
-        "Managed CI/CD processes with Azure DevOps, created pipelines for automatic build, test, and deployment.",
-        "Improved code quality with SonarQube analysis, ensured version control with Git and Visual Studio.",
-        "Placed 2nd in a company-wide generative AI competition with an intelligent document tool that automates document requirements in business processes."
+        "Gained hands-on experience with Agile Scrum processes and developed a strong working practice aligned with agile methodologies.",
+        "Worked as a Full Stack Developer, building scalable web applications using .NET Core and C# with Clean Architecture, Onion Architecture, and various design patterns.",
+        "Developed dynamic and user-friendly interfaces with Vue3 and optimized data management using MSSQL and MongoDB.",
+        "Achieved 2nd place in an internal generative AI competition with a smart document tool that automates document requirements in business processes.",
+        "Gained experience in product development, AI/ML, and the use of OpenAI models as part of the productization goals for the smart document tool.",
+        "Integrated Azure OpenAI models into the business management system developed for Doğuş İnşaat, enabling AI-powered process automation and data analysis capabilities."
       ]
     },
     {
       "title": "Research and Development Intern",
-      "company": "Kocaeli University Embedded Systems Laboratory",
-      "period": "2021 - 2024",
+      "company": "Kocaeli University Computer Research and Application Center",
+      "period": "2022 - 2024",
       "responsibilities": [
-        "Developed an enterprise web application with a user-friendly interface, utilizing MSSQL and MongoDB. Implemented Clean Architecture, Onion Architecture, and various design patterns in frontend and backend to enhance performance and sustainability.",
-        "Developed a reservation system for Marmarakaf using .NET Core MVC.",
-        "Created a patient tracking system for Kocaeli University Hospital using .NET Core MVC.",
-        "Implemented a graduate information system for Kocaeli University using .NET Core.",
-        "Developed a microservice-based online image optimization tool using Go and Nodejs. Each service (upload, processing, and analytics) was containerized with Docker and communicated via gRPC. Used Redis for caching and PostgreSQL for metadata storage. Ensured scalability and fault tolerance with Kubernetes deployment."
+        "Developed a corporate web application with a user-friendly interface, utilizing MSSQL and MongoDB. Applied Clean Architecture, Onion Architecture, SOLID principles, and various design patterns to enhance performance and maintainability on both frontend and backend.",
+        "Designed and developed the Marmarakaf reservation system, ensuring efficient booking management and a seamless user experience."
+      ]
+    },
+    {
+      "title": "Software Developer Volunteer",
+      "company": "Kocaeli University Embedded Systems Laboratory",
+      "period": "2021 - 2023",
+      "responsibilities": [
+        "Contributed to volunteer software projects for Kocaeli University Hospital, working with various medical departments.",
+        "Applied software engineering principles to healthcare applications, improving patient care coordination and clinical workflow efficiency."
       ]
     }
   ],
   "education": [
     {
-      "degree": "Computer Engineering",
+      "degree": "Bachelor of Science in Computer Engineering",
       "institution": "Kocaeli University",
       "period": "2021 - 2025",
       "description": "I am continuing my education in Computer Engineering. Throughout my education, I am building a comprehensive academic foundation in software development, algorithm design, database management, and system architecture."
+    },
+    {
+      "degree": "Senior Capstone Project",
+      "institution": "Kocaeli University",
+      "period": "",
+      "description": "Developed a containerized, integrated data management system utilizing Onion Architecture principles to seamlessly connect independent APIs with distributed databases. Implemented Elasticsearch for efficient full-text search capabilities and optimized data retrieval across the distributed system architecture. Applied practical, hands-on development approaches to solve complex data federation challenges in a containerized environment using Docker and orchestration tools."
     }
   ],
   "skills": {
-    "programming": ["C#", "Go", "JavaScript", "TypeScript", "T-SQL"],
-    "frameworks": [".NET Core", "ASP.NET MVC", "Vue.js", "Nodejs"],
-    "databases": ["MSSQL", "MongoDB", "PostgreSQL", "Redis"],
-    "devops": ["Docker", "Kubernetes", "Azure DevOps", "Git & GitHub"]
+    "programming": ["C#", "JavaScript", "TypeScript", "T-SQL", "HTML/CSS"],
+    "frameworks": [".NET Core", "Vue.js", "Node.js"],
+    "databases": ["MSSQL", "MongoDB", "Redis"],
+    "devops": ["Docker", "Kubernetes", "Azure DevOps", "Git"],
+    "cloud": ["AWS Bedrock", "Firebase", "FireStore", "Google Cloud"],
+    "testing": ["XUnit", "NUnit", "Moq", "FluentAssertions", "Mocha"],
+    "architecture": ["Clean Architecture", "Onion Architecture", "SOLID", "DDD", "Design Patterns"]
   },
   "projects": [
     {
@@ -77,6 +92,18 @@
       "category": "AI/ML",
       "description": "A generative AI-based intelligent document tool that automates document requirements in business processes, using OpenAI models.",
       "technologies": ["AI/ML", "OpenAI", ".NET Core", "Vue.js"]
+    },
+    {
+      "title": "Integrated Data Management System",
+      "category": "Distributed Systems",
+      "description": "A containerized, integrated data management system utilizing Onion Architecture principles to seamlessly connect independent APIs with distributed databases, featuring Elasticsearch for efficient full-text search capabilities.",
+      "technologies": ["Docker", "Elasticsearch", "Onion Architecture", ".NET Core"]
+    },
+    {
+      "title": "Marmarakaf Reservation System",
+      "category": "Web Application",
+      "description": "Designed and developed a reservation system ensuring efficient booking management and a seamless user experience.",
+      "technologies": [".NET Core", "MSSQL", "Vue.js"]
     }
   ]
 }
