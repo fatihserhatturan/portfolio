@@ -1,0 +1,92 @@
+{
+  "personal": {
+    "name": "Fatih Serhat Turan",
+    "title": "Fullstack Developer",
+    "email": "fatihserhatturan@gmail.com",
+    "phone": "+90 553 746 93 29",
+    "location": "Istanbul, Turkey",
+    "links": {
+      "linkedin": "https://linkedin.com/in/fatih-serhat-turan-4b3bb1146",
+      "github": "https://github.com/fatihserhatturan",
+      "medium": "https://medium.com/@fatihserhatturan",
+      "portfolio": "https://fatihserhatturan.vercel.app"
+    }
+  },
+  "experience": [
+    {
+      "id": 1,
+      "position": "Software Developer",
+      "company": "Dogus Teknoloji",
+      "period": "2024 – Present",
+      "description": "Developed scalable web applications using .NET Core, C# with Clean Architecture. Built dynamic interfaces with Vue3 and optimized data management using MSSQL and MongoDB.",
+      "highlights": [
+        "Achieved 2nd place in internal generative AI competition with smart document automation tool",
+        "Developed AI-powered business analyst tool winning 3rd place in Dogus Technology hackathon",
+        "Integrated Azure OpenAI models into business management system",
+        "Applied Agile Scrum methodologies in full-stack development and AI/ML product development"
+      ]
+    },
+    {
+      "id": 2,
+      "position": "Research and Development Intern",
+      "company": "Kocaeli University Computer Research and Application Center",
+      "period": "2022 – 2024",
+      "description": "Developed corporate web application utilizing MSSQL and MongoDB with Clean Architecture and SOLID principles.",
+      "highlights": [
+        "Designed and developed Marmarakaf reservation system with efficient booking management",
+        "Implemented seamless user experience with modern web technologies"
+      ]
+    }
+  ],
+  "skills": {
+    "Languages": ["C#", "Java", "JavaScript", "TypeScript", "T-SQL", "HTML/CSS"],
+    "Frameworks": [".NET Core", "Vue.js", "Node.js", "FastAPI"],
+    "Databases": ["MSSQL", "MongoDB", "Redis", "Elasticsearch"],
+    "DevOps": ["Docker", "Kubernetes", "RabbitMQ", "Azure DevOps"],
+    "Cloud": ["AWS Bedrock", "Firebase", "Google Cloud", "Azure OpenAI"],
+    "AI/ML": ["OpenAI Models", "LangChain", "Google Gemini AI"],
+    "Testing": ["XUnit", "NUnit", "Moq", "FluentAssertions", "Mocha"],
+    "Architecture": ["Microservices", "Clean Architecture", "Onion Architecture", "SOLID", "DDD"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "name": "AI-Powered Business Analyst Tool",
+      "description": "Developed using Vue.js, FastAPI, and LangChain with Google's Gemini AI. Won 3rd place in Dogus Technology hackathon.",
+      "tags": ["Vue.js", "FastAPI", "LangChain", "Gemini AI"],
+      "github": "https://github.com/fatihserhatturan/stalker-ai-analyst"
+    },
+    {
+      "id": 2,
+      "name": "Smart Document Automation Tool",
+      "description": "Generative AI-powered tool for document automation. Achieved 2nd place in internal AI competition at Dogus Teknoloji.",
+      "tags": ["AI/ML", "Azure OpenAI", ".NET Core"],
+      "github": ""
+    },
+    {
+      "id": 3,
+      "name": "Containerized Data Management System",
+      "description": "Senior capstone project with Onion Architecture connecting independent APIs with distributed databases. Implemented Elasticsearch for efficient full-text search.",
+      "tags": ["Docker", "Elasticsearch", "Microservices", "Onion Architecture"],
+      "github": ""
+    },
+    {
+      "id": 4,
+      "name": "Marmarakaf Reservation System",
+      "description": "Designed and developed efficient booking management system with seamless user experience using modern web technologies.",
+      "tags": ["MSSQL", "MongoDB", "Clean Architecture"],
+      "github": ""
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Computer Engineering",
+    "school": "Kocaeli University",
+    "period": "2021 – 2025",
+    "gpa": ""
+  },
+  "achievements": [
+    "2nd Place - Internal Generative AI Competition at Dogus Teknoloji",
+    "3rd Place - Dogus Technology Hackathon (AI-Powered Business Analyst Tool)",
+    "Successfully integrated AI/ML solutions into enterprise business management systems"
+  ]
+}
