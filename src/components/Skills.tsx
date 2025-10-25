@@ -1,12 +1,12 @@
 import portfolioData from '@/data/portfolio-data.json';
-import { Code2, Layers, Database, Container, Cloud, Brain, TestTube, Network } from 'lucide-react';
+import { Code2, Layers, Database, Container, Cloud} from 'lucide-react';
 import {
-   SiJavascript, SiTypescript, SiHtml5, SiCss3,
+   SiJavascript, SiTypescript, SiHtml5, SiGo,
   SiDotnet, SiVuedotjs, SiNodedotjs, SiFastapi,
   SiMongodb, SiRedis, SiElasticsearch,
   SiDocker, SiKubernetes, SiRabbitmq,
   SiAmazon, SiFirebase, SiGooglecloud, SiOpenai,
-  SiMocha,
+  SiMocha, SiSpringboot,
 } from 'react-icons/si';
 
 const categoryIcons = {
@@ -18,9 +18,10 @@ const categoryIcons = {
 };
 
 const brandIcons: Record<string, React.ComponentType<{ className?: string }>> = {
-  'C#': Code2,
-  'Java': Code2,
+  'C#': SiDotnet,
+  'Java': SiSpringboot,
   'JavaScript': SiJavascript,
+  'Go': SiGo,
   'TypeScript': SiTypescript,
   'HTML/CSS': SiHtml5,
   'T-SQL': Code2,

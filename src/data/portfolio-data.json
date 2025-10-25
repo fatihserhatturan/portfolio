@@ -39,7 +39,7 @@
     }
   ],
   "skills": {
-    "Languages": ["C#", "Java", "JavaScript", "TypeScript", "T-SQL", "HTML/CSS"],
+    "Languages": ["C#", "Java", "Go","JavaScript", "TypeScript", "T-SQL", "HTML/CSS"],
     "Frameworks": [".NET Core", "Vue.js", "Node.js", "FastAPI"],
     "Databases": ["MSSQL", "MongoDB", "Redis", "Elasticsearch"],
     "DevOps": ["Docker", "Kubernetes", "RabbitMQ", "Azure DevOps"],
@@ -73,6 +73,13 @@
       "description": "Designed and developed efficient booking management system with seamless user experience using modern web technologies.",
       "tags": ["MSSQL", "MongoDB", "Clean Architecture"],
       "github": ""
+    },
+    {
+      "id": 5,
+      "name": "Locale Transcriber App",
+      "description": "A cross-platform desktop application for offline audio transcription using OpenAI's Whisper model.",
+      "tags": ["Whisper.cpp", "FFmpeg", "Nodejs", "Electron","IPC"],
+      "github": "https://github.com/fatihserhatturan/whisper-local-transcriber-app"
     }
   ],
   "education": {
