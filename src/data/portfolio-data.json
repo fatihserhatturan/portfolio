@@ -43,10 +43,7 @@
     "Frameworks": [".NET Core", "Vue.js", "Node.js", "FastAPI"],
     "Databases": ["MSSQL", "MongoDB", "Redis", "Elasticsearch"],
     "DevOps": ["Docker", "Kubernetes", "RabbitMQ", "Azure DevOps"],
-    "Cloud": ["AWS Bedrock", "Firebase", "Google Cloud", "Azure OpenAI"],
-    "AI/ML": ["OpenAI Models", "LangChain", "Google Gemini AI"],
-    "Testing": ["XUnit", "NUnit", "Moq", "FluentAssertions", "Mocha"],
-    "Architecture": ["Microservices", "Clean Architecture", "Onion Architecture", "SOLID", "DDD"]
+    "Cloud": ["AWS Bedrock", "Firebase", "Google Cloud", "Azure OpenAI"]
   },
   "projects": [
     {

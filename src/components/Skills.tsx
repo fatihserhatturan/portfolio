@@ -15,12 +15,8 @@ const categoryIcons = {
   'Databases': Database,
   'DevOps': Container,
   'Cloud': Cloud,
-  'AI/ML': Brain,
-  'Testing': TestTube,
-  'Architecture': Network
 };
 
-// Brand ikonları mapping
 const brandIcons: Record<string, React.ComponentType<{ className?: string }>> = {
   'C#': Code2,
   'Java': Code2,
